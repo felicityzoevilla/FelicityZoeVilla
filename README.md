@@ -23,7 +23,6 @@ An aspiring Network Administrator and IT Specialist, eager to build strong techn
 ### Programming
 - Java
 - Python
-- SQL
 - React Native
 
 ### Databases
