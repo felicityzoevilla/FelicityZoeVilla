@@ -22,11 +22,9 @@ An aspiring Network Administrator and IT Specialist, eager to build strong techn
 ## Skills
 ### Programming
 - Java
+- SQL
 - Python
 - React Native
-
-### Databases
-- IBM DB2 Cloud  
 
 ### Tools
 - Lucidchart  
