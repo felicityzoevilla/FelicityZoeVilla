@@ -15,6 +15,8 @@ Eager to build strong technical foundations in systems, networking, and database
 - **BS Information Technology**  
   *New Era University*  
   *2024 – Present*
+- *New Era University Camera Club (NEUCC)*  
+  *Nov 2025 – Present*
 
 ### Certifications:
 - *[Gemini Certified University Student](https://edu.google.accredible.com/7ac8fbac-23c6-4f2d-81c4-56d85640b1dc#acc.KBaOZmLN)*
