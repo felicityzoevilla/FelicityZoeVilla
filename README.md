@@ -1,7 +1,7 @@
 # Hi, I'm Felicity Zoe O. Villa
 
 ## About Me
-I am a Bachelor of Science in Information Technology student at New Era University with a growing passion for both technology and creative media. As member of the New Era University Camera Club (NEUCC), I actively explore photography and plan to expand into videography
+I am a Bachelor of Science in Information Technology student at New Era University with a growing passion for both technology and creative media. As member of the New Era University Camera Club (NEUCC), I actively explore photography and plan to expand into videography. 
 
 Eager to build strong technical foundations in systems, networking, and database management. I am highly motivated to learn, open to training opportunities, and enthusiastic about collaborating with others to develop more efficient and innovative solutions.
 
@@ -9,7 +9,7 @@ Eager to build strong technical foundations in systems, networking, and database
 ## Work Experience
 - **Camtech Photo Studio - Quezon City**  
   *Staff & Photographer*  
-  *2026 – Present*
+  *Aug 2026 – Present*
   
 ## Education
 - **BS Information Technology**  
