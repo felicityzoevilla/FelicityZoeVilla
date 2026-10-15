@@ -1,7 +1,7 @@
 # Hi, I'm Felicity Zoe O. Villa
 
 ## About Me
-I am a Bachelor of Science in Information Technology student at New Era University with a growing passion for both technology and creative media. As member of the New Era University Camera Club (NEUCC), I actively explore photography and plan to expand into videography. 
+I am a 3rd year Bachelor of Science in Information Technology student at New Era University with a growing passion for both technology and creative media. As member of the New Era University Camera Club (NEUCC), I actively explore photography and plan to expand into videography. 
 
 Eager to build strong technical foundations in systems, networking, and database management. I am highly motivated to learn, open to training opportunities, and enthusiastic about collaborating with others to develop more efficient and innovative solutions.
 
@@ -44,13 +44,18 @@ Eager to build strong technical foundations in systems, networking, and database
 ### Portfolio
 [FZV Photography Portfolio](https://canva.link/587hdmen36tm3on)
 
-### Cameras That I Used (18-140mm kit lens)
+### Cameras That I Used:
+24-105mm lens
 - Canon EOS R50
+
+18-140mm lens
 - Canon EOS 200D
 - Nikon D7200
 - Nikon D5100
 - Nikon D5000
-- Nikon D3200 (50mm kit lens)
+
+50mm lens
+- Nikon D3200
 
 ---
 
